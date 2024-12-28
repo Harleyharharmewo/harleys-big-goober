@@ -1,32 +1,32 @@
-addIngredient("totally_not_cocaine",{
+addIngredient("freshly_scooped_dirt",{
     type:"spice",
-    color:"#DDDDDD",
-    keywords:"cocaine,drug,powder,sugar,illegal",
+    color:"#A07E71",
+    keywords:"dirt,sand,earth",
 });
-addIngredient("totally_not_weed",{
-    type:"wheat",
-    color:"#44CC00",
-    keywords:"weed,drug,grass,illegal",
+addIngredient("feather",{
+    type:"cress",
+    color:"#ffffff",
+    keywords:"bird,feather",
 });
-addIngredient("totally_not_fentanyl",{
+addIngredient("hydroxyzine",{
     type:"candy",
     color:"#5599CC",
-    keywords:"fentanyl,drug,pill,sugar,illegal",
+    keywords:"hydroxyzine,drug,pill,meds,zoloft",
 });
-addIngredient("totally_not_meth",{
+addIngredient("toothpaste",{
     type:"cress",
-    color:"#4488FF",
-    keywords:"meth,drug,crystal,illegal",
+    color:"#26f7fd",
+    keywords:"tooth,toothpaste",
 });
-addIngredient("gunpowder_:3",{
+addIngredient("microplastics",{
     type:"spice",
     color:"#676666",
-    keywords:"gunpowder,bomb,explosive,illegal",
+    keywords:"plastic,microplastic",
 });
-addIngredient("uhm..._milk",{
+addIngredient("cum",{
     type:"oil",
     color:"#EEEEEE",
-    keywords:"cum,milk,illegal,ejaculate,liquid",
+    keywords:"cum,milk,illegal,ejaculate,liquid,semen,jizz,nut",
 });
 addIngredient("tooth",{
     type:"mutton",
@@ -48,7 +48,7 @@ addIngredient("infant",{
     color:"#FFD5C4",
     keywords:"child,illegal,doll,human",
 });
-addIngredient("criminal",{
+addIngredient("child",{
     type:"r74n",
     color:"#FF6A00",
     keywords:"child,illegal,doll,human",
@@ -58,8 +58,8 @@ addIngredient("medicine",{
     color:"#CC0000",
     keywords:"drug,illegal,substance",
 });
-addIngredient("tennis_ball_(definitely_not_loaded_up_with_gunpowder)_",{
+addIngredient("Nondescript_Green_Object",{
     type:"cheeseball",
     color:"#44FF44",
-    keywords:"illegal,ball,tennis,bomb",
+    keywords:"Green, Object
 });
